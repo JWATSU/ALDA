@@ -1,2 +1,2 @@
 # ALDA
-A repostory for programming projects I did in the Algorithms and Data Structures course at Stockholm University. 
+En repo för programmeringsprojekt jag gjorde i Algoritmer och Datastrukturer kursen på Stockholm Universitet.
